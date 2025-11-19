@@ -1,6 +1,6 @@
 # Gemini 3 Starter Prompts
 
-![Gemini 3 Banner](https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini-3_model-blog_header-dark.width-1600.format-webp.webp)
+<img width="1376" height="768" alt="starter-prompts-repo-banner" src="https://github.com/user-attachments/assets/e74d0d44-2b35-4668-8c60-de0ff9b9afef" />
 
 Welcome to the **Gemini 3 Prompts Repository**. This collection contains a suite of "Distinguished Engineer" level prompt specifications designed to push the limits of Google's latest **Gemini 3** model.
 
@@ -63,3 +63,5 @@ Each file in this repository is a standalone specification for a killer app or t
 *   **Developer Docs:** [Google AI Studio](https://aistudio.google.com/)
 *  [Gemini CLI](https://geminicli.com/)
 *   **Model Access:** Check your Google Cloud Vertex AI or AI Studio dashboard for Gemini 3 availability.
+
+<img width="1600" height="902" alt="image" src="https://github.com/user-attachments/assets/bb2c6695-97eb-4428-962a-0758b31cce4b" />
